@@ -1,0 +1,65 @@
+ASP .NET practical list
+BE CE VII
+Government Engineering College, Modasa
+
+1.	Create a program to demonstrate view state and post back using HTML control and Web server control.
+2.	Create a Hello World program using following three ways
+a.	Inline code  (Code and Presentation in same page)
+b.	Code-behind
+c.	Compiled code behind
+3.	Create a program to demonstrate various Page life cycle events.
+4.	Create a program to demonstrate various events in Global.asax
+5.	Create a program to demonstrate EventArgs.
+6.	Create a registration form with fields like name, email, phoneno, address, age, gender, password, re-type password etc. Use Validation Controls
+Validations are as below.
+Name (required)
+Password and re-type password (must match)
+Email (@ and . must)
+
+7.	Create a program to demonstrate concept of user control.
+8.	Crete a program to demonstrate Master pages and content pages
+9.	Create a program to demonstrate Themes.
+10.	Create a program to change theme dynamically.
+11.	Create a program which use cookies to maintain stat information
+Set life time of cookie, Set cookie persistent
+12.	State management with Session. 
+Give details steps to implement each type of state management. Like In-process, Off, State server, SQL server. Give suitable programs also.
+13.	Demonstrate use of various Session object properties and methods.
+14.	Demonstrate the use of Profiles in ASP .NET
+15.	Write a program to create registration form of program 6 and save/ edit /delete /search values from database. (Use connected database access)
+16.	Write a program to create registration form of program 6 and save/ edit /delete /search values from database. (Use disconnected database access)
+17.	Write a program to create web service.
+18.	Write three types of client programs to invoke web service. (console based, desktop application based and web application based)
+ 
+ ASP.NET 
+Assignment 1
+
+1.	Write notes on following.
+i.  PostBack
+ii. View State
+iii. Code Behind
+iv. Compiled Code Behind
+2.	What is the use of runat=”server” attribute of various server controls in ASP .NET
+3. 	Give difference between normal HTML controls and ASP.NET Server Controls.
+4.	Explain AdRotator server control in detail.
+5. 	Explain about syntax of various validation controls.
+6.	Explain Regular expression validator and Custom validator with proper examples.
+7.	Explain ASP .NET page life cycle. Also discuss about isValid and isPostBack properties of Page.
+8.	Write a note on cookies for state management. Explain various properties of cookies.
+9.	Explain Session state management. Give differences between various modes of session like NONE, in-process, state server and SQL server mode.
+10.	What is application state? Explain with example.
+11.	List and explain various configuration sections of web.config file.
+12.	Write notes on following.
+i.	Master pages
+ii.	User controls
+iii.	Themes, Skin and CSS
+iv.	Managed provider in ADO.NET
+13. 	Give differences between connected and disconnected data access.
+14. 	Explain important namespaces and classes of ADO .NET
+15. 	Explain various data bound controls with syntax.
+17.	What is web service? Write and explain steps to create and consume web service with proper example.
+16.	Write notes on following
+i.	UDDI
+ii.	WPF and WCF
+iii.	AJAX
+iv.	Silver light
